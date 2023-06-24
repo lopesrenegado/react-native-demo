@@ -40,56 +40,5 @@
 
 
 
-1.* Topic Mobile development
-- Swift
-- Objective C
-- kotlin / java
 
-- Flutter
-- Xamarin
-- Ionic
-
-*** React Native ***
-+ React Native
-=> What is React 
-  - Framework javascript
-  - open source
-  - free
-  - develop by facebook developer
-=> product of React Native
-  IOS application 
-  Android application
-  Window application
-  MacOS application
-=> app upload
-  App store(99$)
-  Play store(25$)
-  Galary store(...)
-
-+ environment development
-    Mac 
-    Window
-    Linux
-+ What you need to know
-    Basic web development
-      HTML
-      CSS
-      JavaScript
-      ReactJs
-    Basic Programming
-      Loop,
-      function,
-      data type, 
-      array , 
-      OOP, ..
-      C/C++ languages
-
-1. configuration
-  Mac
-    android
-    ios
-  Window
-    android
-  Linux
-    android
  
